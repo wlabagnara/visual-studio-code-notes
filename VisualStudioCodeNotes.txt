@@ -1,0 +1,26 @@
+
+** VISUAL STUDIO NOTES **
+
+CTL+SHIFT+P = Show all commands
+
+ALT+CLICK = Add cusor multiple places (anywhere)
+CTL+SHIFT+L = Replace all instances (Just start typing to overwrite)
+CTRL+SPACE = Invoke intellisense
+SHIFT+ALT+UP/DN = Copy line up/down
+ALT+UP/DN = Move line up/down
+CTL+SHIFT+K = Delete line
+Rename/Refactor (Careful! - across all files):
+  F2 key while highlighting symbol/function name 
+  Right-click menu -> "Rename Symbol"
+CTL+K CTL+F = Formatting for current selection
+SHIFT+ALT+F = Formatting for entire document
+CTL+SHIFT+[ = Fold code at cursor position
+CTL+SHIFT+] = Unfold code at cursor position
+CTL+K CTL+0 = Fold code in all sections
+CTL+K CTL+J = Unfold code in all sections
+F8 key = Scroll through highlighted errors/warnings
+
+Snippets:
+Start typing, select, then TAB key to auto-gen snippet block
+Edit menu -> Emmet:Expand Abbrevioation with cursor at end of valid expression.
+
