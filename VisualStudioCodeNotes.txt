@@ -1,5 +1,5 @@
 
-** VISUAL STUDIO NOTES **
+** VISUAL STUDIO CODE NOTES **
 
 CTL+SHIFT+P = Show all commands
 
